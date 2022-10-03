@@ -5,7 +5,7 @@
 
 ## :hammer: Projeto
 
- Este projeto é a demostração de uma documentação simples para APP em REACT NATIVE de um aplicativo para localização de piscinas, feito para a sturtup .
+ Este projeto é a demostração de uma documentação simples para APP em REACT NATIVE de um aplicativo para localização de piscinas, feito para uma sturtup .
 
 <h3>Boas práticas</h5>
 
