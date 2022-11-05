@@ -24,7 +24,7 @@
 | --- | --- |
 | JavaScript | ES6 |
 
- <h4>Biblioteca(s): </h4>
+ <h4>Framework: </h4>
  
 - React Native
 
